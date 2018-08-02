@@ -1,4 +1,4 @@
-hshss
+Start to study Git!
 
 git is very good ! I think it's the best version management tool ! do you Think so?
 
