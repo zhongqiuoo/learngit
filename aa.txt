@@ -1,2 +1,3 @@
 hshss
-git is very good ! I think it's the best publish manager tool ! Do you Think so？
+
+git is very good ! I think it's the best publish manager tool ! do you Think so?
