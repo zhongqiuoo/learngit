@@ -7,3 +7,5 @@ beautiful!
 hasagei!
 
 wait a minute, that may be a bug need me to fix.
+
+now, I'm going to fix that bug.
