@@ -5,3 +5,5 @@ git is very good ! I think it's the best version management tool ! do you Think 
 beautiful!
 
 hasagei!
+
+wait a minute, that may be a bug need me to fix.
